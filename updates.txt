@@ -1,2 +1,3 @@
 FOR UPDATES/CHANGES :
 Day 1 - created a html page and pushed it to remote repo.
+Day 2 - creating branches.
